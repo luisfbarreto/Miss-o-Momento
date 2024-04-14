@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+body{
+    background-color:rgb(39, 39, 39);
+}
+
+
+.navbar-brand{
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: bold;
+}
+.card-t1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    line-height: 200px;
+}
+
+
+.card-img{
+    width: 450px;
+}
+
+.carousel-item{
+    scale: 0.89;
+}
+
+.lumi-msg{
+    font-family: "Space Grotesk", sans-serif;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.lumi-msg-p{
+    font-weight: bold;
+    color: white;
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
+    background: #19de00;
+    border: 10px solid rgb(12, 12, 12);
+    border-radius: 30px;
+    border-left-width: 100px;
+    border-right-width: 100px;
+}
+
+.footer{
+    background: rgb(20, 20, 20);
+}
+
+.footer, .p{
+    text-align: center;
+    color: white;
+}
+
+.col{
+   scale: 0.95; 
+}
+
+.container-fluid{
+    margin-right: 20%;
+    margin-left: 10%;
+    align-items: center;
+}
